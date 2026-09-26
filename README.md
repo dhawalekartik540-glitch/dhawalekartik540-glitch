@@ -118,7 +118,7 @@
 <a href="mailto:dhawalekartik540@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kartik-dhawale-7274341a2/">
+<a href="https://www.linkedin.com/in/kartikey-dhawale-7274341a2/">
 <img src="https://img.shields.io/badge/LinkedIn-9B72CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
