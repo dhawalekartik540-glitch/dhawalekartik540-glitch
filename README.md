@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Kartikey%20Dhawale&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&descAlign=50&descAlignY=58&descSize=18" alt="Kartikey Dhawale profile hero banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4285F4,50:9B72CB,100:D96570&text=Hi,%20I'm%20Kartikey%20Dhawale&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&descAlign=50&descAlignY=58&descSize=18" alt="Kartikey Dhawale profile hero banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Infrastructure%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
@@ -116,10 +116,10 @@
 
 <p align="left">
 <a href="mailto:dhawalekartik540@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/kartik-dhawale-7274341a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-9B72CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
@@ -128,5 +128,5 @@
 <p align="center"><i>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect.</i></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:0f172a" alt="Footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4285F4,50:9B72CB,100:D96570" alt="Footer wave" width="100%" />
 </div>
